@@ -1,0 +1,29 @@
+Steps to install linux/virtual machine in windows-
+Go to your AWS account.
+Know put your location to asia pacific(Mumbai).
+Click on services.
+Then compute,after that click on EC2.
+Click on instances,after that press launch instances.
+(Know to perform major work - give the details of your instances of how you want to create like-----)
+Give name to your instance eg - name server.
+Move below,then press on create a key pair and name it as eg- name server,its file will also downloaded.
+Know select browser eg - windows.
+Move below at the network security and allow both https traffics from the internet.  
+Press on launch instances, know your virtual machine is successfully active.
+Know click on the url/link which you get on the screen of the instance.
+In your dashboard you can see that your instance is running.
+Click on connect, then move to PDP client.
+Move below ,know download the remote desktop file.
+Click on password to get your password.
+Click upload private key file.
+Paste the file which was downloaded earlier.
+Decrypt the password.
+Copy the password ,click on view download ,remote desktop coonection pop pop occurs.
+Then press on connect.
+Paste the password.
+Click yes.
+Know your virtual machine will open on your screen.
+After that you can terminate it , when not required.
+
+
+
